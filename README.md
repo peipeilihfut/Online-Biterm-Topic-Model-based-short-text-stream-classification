@@ -1,4 +1,3 @@
-# mypapers
 # ShortTextStreamClassification
 <DIV id="contentArea">
 <DIV class="zone" id="mainZone">
